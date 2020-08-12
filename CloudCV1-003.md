@@ -32,10 +32,10 @@
 		1. Non-volatile memory express over fabrics (NVMe-oF)
 	1. Software Defined Storage (SDS)
 
-1.  Given a scenario, deploy cloud networking solutions:
-  1. 	Software Defined Network (SDN)
+1. Given a scenario, deploy cloud networking solutions:
+  1. Software Defined Network (SDN)
 
-1.  Given a scenario, configure the appropriate compute sizing for a deployment:
+1. Given a scenario, configure the appropriate compute sizing for a deployment:
   1. Virtualization:
     1. Hypervisors: Type 1 and Type 2
 
