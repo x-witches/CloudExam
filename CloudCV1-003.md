@@ -1,8 +1,8 @@
-#Comptia Cloud+ Beta exam
+# Comptia Cloud+ Beta exam
 
-1.3 Explain the importance of high availalbity and scaling in cloud environments:
- 	-Hypervisors: 
-		-Affinity and Anti-Affinity
+1. Explain the importance of high availalbity and scaling in cloud environments:
+ 	1. Hypervisors: 
+		1. Affinity and Anti-Affinity
 
 2.1 Given a scenario, configure indenty and access management:
 	-Directory Services: 
