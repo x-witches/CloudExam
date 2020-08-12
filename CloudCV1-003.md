@@ -33,49 +33,49 @@
 	1. Software Defined Storage (SDS)
 
 1.  Given a scenario, deploy cloud networking solutions:
-  1. Software Defined Network (SDN)
+    1. Software Defined Network (SDN)
 
 1. Given a scenario, configure the appropriate compute sizing for a deployment:
-  1. Virtualization:
-    1. Hypervisors: Type 1 and Type 2
+    1. Virtualization:
+        1. Hypervisors: Type 1 and Type 2
 
 1.  Given a scenario, preform cloud migrations:
-  1. Database migrations:
-    1. Relational
-    1. Non-Relational
+    1. Database migrations:
+        1. Relational
+        1. Non-Relational
 
 1.  Given a scenario, maintain efficient operation of a cloud environment.
-  1. Polices:
-    1. n-1
-  1. Upgrade Methods:
-    1. Active-Passive
+    1. Polices:
+        1. n-1
+    1. Upgrade Methods:
+        1. Active-Passive
 
 1.  Given a scenario, optimize cloud environments:
-  1. Network:
-    1. SDN
+    1. Network:
+        1. SDN
 
 1.  Given a scenario, apply proper automation and orchestration techniques:
-  1. Infrastructure as code:
-    1. infrastructure components and their integration
-  1. Continuous integration/continuous deployment(CI/CD)
+    1. Infrastructure as code:
+        1. infrastructure components and their integration
+    1. Continuous integration/continuous deployment(CI/CD)
 
 1.  Given a scenario, preform appropriate backup and restore operations:
-  1. Mean time to recover (MTTR)
+    1. Mean time to recover (MTTR)
 
 1.  Given a scenario, troubleshoot security issues:
-  1. Misconfigured or failed appliances:
-    1. WAF
+    1. Misconfigured or failed appliances:
+        1. WAF
 
 1.  Given a scenario, troubleshoot deployment issues:
-  1. Missing or incorrect tags (comment: I again was not able to research this topic)
+    1. Missing or incorrect tags (comment: I again was not able to research this topic)
 
 1.  Given a scenario, troubleshoot connectivity issues:
-  1. Common networking configuration issues:
-    1. Peering
-    1. Load Balancers:
-    1. Methods
-    1. Headers
-    1. Protocols
-    1. Encryption
-    1. Back ends
-    1. Front ends
+    1. Common networking configuration issues:
+        1. Peering
+        1. Load Balancers:
+            1. Methods
+            1. Headers
+            1. Protocols
+            1. Encryption
+            1. Back ends
+            1. Front ends
