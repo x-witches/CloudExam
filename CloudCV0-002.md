@@ -3,6 +3,7 @@
 # Table of Contents
 
 <!-- MarkdownTOC lowercase_only_ascii="true" depth=3 autolink="true" bracket="round" -->
+## 1.0 Configuration and Deployment
 
 1. Given a scenario, analyze system requirements to ensure successful system deployment.
 	1. Appropriate commands, structure, tools, and automation/orchestration as needed
@@ -165,6 +166,9 @@
 		1. Multifactor authentication
 		1. Firewall
 		1. IPS/IDS
+
+##	2.0 Security
+
 1. Given a scenario, apply security configurations and compliance controls to meet Given cloud infrastructure requirements.
 	1. Company security policies
 	1. Apply security standards for the selected platform
@@ -209,6 +213,8 @@
 		1. Non-discretionary access controls
 		1. Multifactor authentication
 		1. Single sign-on
+
+## 3.0 Maintenance
 
 1. Given a cloud service model, implement defined security technologies to meet Given security requirements.
 	1. Data classification
@@ -341,6 +347,8 @@
 		1. Resource reclamation
 		1. Maintain ACLs for the target object
 
+## 4.0 Management
+
 1. Given a scenario, analyze defined metrics to determine the presence of an abnormality and/or forecast future needed cloud resources.
 	1. Monitoring
 		1. Target object baselines
@@ -451,6 +459,8 @@
 		1. System availability
 		1. Uptime
 		1. Downtime
+
+## 5.0 Troubleshooting
 
 1. Given a scenario, troubleshoot a deployment issue.
 	1. Common issues in the deployments
